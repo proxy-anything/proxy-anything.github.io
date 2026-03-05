@@ -1,0 +1,17 @@
+application:
+    setting:
+        proxy-client:
+            license: rkfFuanDGzBCzkT3xA9c6675DeSjLAqXIHDP0HUXAIhWi0qrDr97gAVCiwDMUipCglo/fw7QpAZhxWS/xyXfP5OrXtqSj/kLXhEL8h8HMoTZmh0NOTAwWeumVdM9LawhjDTwLPgrrcVNvr1LEH3Q2pIbLGuIxXiO+hpImAaULc2PbhwCzHW1uxSeuBaCD5BNRFp57uo4Krn217FzUN0tbIMIqxrLnpeBUtt/IXMay/hp16dIbJ/37b9xLBLN+/mHb0aGXfs6WMW0c0GZdgF7ljUfIMRKfGaliYjM/w0EgGCUEZbsZtiWSUopix7tKNPHrzGUUjn/BsIMNIrRxQPgyA==
+            instance-list:
+              - bind-host: 0.0.0.0
+                bind-port: 44380
+                server-host: 127.0.0.1
+                server-port: 44381
+                protocol: "tcp"
+                security: vXAZJmQdgXrgkE72anmldRRf8Tue6seDg62jp/VR9SA=
+              - bind-host: 0.0.0.0
+                bind-port: 44380
+                server-host: 127.0.0.1
+                server-port: 44381
+                protocol: "udp"
+                security: vXAZJmQdgXrgkE72anmldRRf8Tue6seDg62jp/VR9SA=
